@@ -1,0 +1,35 @@
+{
+  "name": "shivamnode",
+  "version": "1.0.0",
+  "description": "node js poc",
+  "main": "nodeback/index.js",
+  "scripts": {
+    "start": "node nodeback/index.js",
+    "server": "nodemon index.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\""
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.1.1",
+    "axios": "^0.19.2",
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.5.0",
+    "dotenv": "^8.2.0",
+    "dotnet": "^1.1.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.15",
+    "multer": "^1.4.2",
+    "react-bootstrap": "^1.0.1",
+    "redux-thunk": "^2.3.0",
+    "sharp": "^0.25.3",
+    "validator": "^13.0.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
