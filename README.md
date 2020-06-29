@@ -20,6 +20,8 @@ go to-- http://localhost:5000/products
 
 click on the product name or image, you will redirected to the product page from there you can add the product in the cart and also choose the quantity.
 you can add the product direcly by clicking the "Add to cart" button.
+
+
 ![alt text](https://github.com/shivampradhan/MERN-Ecommerce-Project/blob/master/img2.PNG?raw=true)
 click on the Sam Shop which in header section to go to homescreen.
 
