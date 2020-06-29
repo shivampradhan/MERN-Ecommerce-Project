@@ -3,7 +3,7 @@
 
 
  An e-commerce website for organic food shopping using MERN stack:
-
+whole code yet to be completed
 As the project use react and node we need to terminal
 
 1st terminal:  npm start
